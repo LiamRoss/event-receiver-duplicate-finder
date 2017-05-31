@@ -1,0 +1,12 @@
+c:\users\administrator.qa\documents\visual studio 2012\Projects\Event Receiver Duplicate Finder\Event Receiver Duplicate Finder\bin\Debug\Event Receiver Duplicate Finder.exe.config
+c:\users\administrator.qa\documents\visual studio 2012\Projects\Event Receiver Duplicate Finder\Event Receiver Duplicate Finder\obj\Debug\Event Receiver Duplicate Finder.csprojResolveAssemblyReference.cache
+c:\users\administrator.qa\documents\visual studio 2012\Projects\Event Receiver Duplicate Finder\Event Receiver Duplicate Finder\bin\Debug\Event Receiver Duplicate Finder.exe
+c:\users\administrator.qa\documents\visual studio 2012\Projects\Event Receiver Duplicate Finder\Event Receiver Duplicate Finder\bin\Debug\Event Receiver Duplicate Finder.pdb
+c:\users\administrator.qa\documents\visual studio 2012\Projects\Event Receiver Duplicate Finder\Event Receiver Duplicate Finder\obj\Debug\Event Receiver Duplicate Finder.exe
+c:\users\administrator.qa\documents\visual studio 2012\Projects\Event Receiver Duplicate Finder\Event Receiver Duplicate Finder\obj\Debug\Event Receiver Duplicate Finder.pdb
+D:\Libraries\Downloads\Event Receiver Duplicate Finder\Event Receiver Duplicate Finder\bin\Debug\Event Receiver Duplicate Finder.exe.config
+D:\Libraries\Downloads\Event Receiver Duplicate Finder\Event Receiver Duplicate Finder\obj\Debug\Event Receiver Duplicate Finder.exe
+D:\Libraries\Downloads\Event Receiver Duplicate Finder\Event Receiver Duplicate Finder\obj\Debug\Event Receiver Duplicate Finder.pdb
+D:\Libraries\Downloads\Event Receiver Duplicate Finder\Event Receiver Duplicate Finder\obj\Debug\Event Receiver Duplicate Finder.csprojResolveAssemblyReference.cache
+D:\Libraries\Downloads\Event Receiver Duplicate Finder\Event Receiver Duplicate Finder\bin\Debug\Event Receiver Duplicate Finder.exe
+D:\Libraries\Downloads\Event Receiver Duplicate Finder\Event Receiver Duplicate Finder\bin\Debug\Event Receiver Duplicate Finder.pdb
